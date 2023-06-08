@@ -127,6 +127,7 @@
     function googleTranslateElementInit() {
         new google.translate.TranslateElement({
             pageLanguage: 'en',    // Set the default language of the page
+            includedLanguages: 'ur,en,hi',
             layout: google.translate.TranslateElement.InlineLayout   // Choose the layout style of the translator widget
         }, 'google_translate_element');
     }
