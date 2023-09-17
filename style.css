@@ -3861,6 +3861,29 @@ box-shadow: 10 10 15px #cae3cd;
   text-decoration: underline;
 }
 
+.bg-dark-green{
+  background-color: #0D2810; 
+}
+
+.border-bottom {
+  border-bottom: 2px solid white;
+}
+
+.vision-container{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1rem;
+  gap: 1rem;
+  justify-content: space-around;
+}
+
+.vision-item{
+  width: 40vw;
+  
+}
+
 
 
 /* ======= The End ======= */
+
+/*# sourceMappingURL=style.css.map */
