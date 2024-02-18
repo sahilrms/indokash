@@ -11,6 +11,9 @@ Version: - v1.0
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Poppins:wght@600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
 /* :: 2.0 Import All CSS */
 @import url(css/bootstrap.min.css);
 @import url(css/classy-nav.css);
@@ -3869,18 +3872,6 @@ box-shadow: 10 10 15px #cae3cd;
   border-bottom: 2px solid white;
 }
 
-.vision-container{
-  display: flex;
-  flex-wrap: wrap;
-  padding: 1rem;
-  gap: 1rem;
-  justify-content: space-around;
-}
-
-.vision-item{
-  width: 40vw;
-  
-}
 
 
 
